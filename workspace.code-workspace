@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../hts-cache"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "jamespriest.co"
+	}
+}

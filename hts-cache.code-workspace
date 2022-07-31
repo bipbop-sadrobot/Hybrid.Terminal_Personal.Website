@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../hts-cache"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "marinasuvorova.com",
+		"search.useGlobalIgnoreFiles": true,
+		"search.useParentIgnoreFiles": true
+	}
+}
